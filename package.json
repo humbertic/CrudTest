@@ -1,0 +1,20 @@
+{
+  "name": "crudtest",
+  "version": "1.0.0",
+  "description": "This is my first nodejs Crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud",
+    "nodejs"
+  ],
+  "author": "Humberto Rosabal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3"
+  }
+}
